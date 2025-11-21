@@ -1,0 +1,90 @@
+^DJI - Dow Jones Industrial Average
+^IXIC - NASDAQ Composite
+^GSPC - S&P 500
+^NYA - NYSE Composite
+^XAX - NYSE AMEX Composite
+^BUK100P - FTSE 100
+^FTAS - FTSE 100
+^GDAXI - DAX Index
+^FCHI - CAC 40
+^STOXX50E - EURO STOXX 50
+^N100 - Euronext 100
+.FTAS - FTSE 100 Index
+^RUT - Russell 2000
+^VIX - CBOE Volatility Index
+^TNX - 10-Year Treasury Note Yield
+^FVX - 5-Year Treasury Note Yield
+^IRX - 13-Week Treasury Bill Yield
+^TYX - 30-Year Treasury Bond Yield
+^NDX - NASDAQ-100
+^MID - S&P MidCap 400
+^DJT - Dow Jones Transportation Average
+^DJU - Dow Jones Utility Average
+^NYSP - NYSE Arca Telecom Index
+^HGX - NYSE Arca Gold Miners Index
+^XOI - NYSE Arca Oil Index
+^BKX - KBW Bank Index
+^XMI - PHLX Semiconductor Sector Index
+^SOX - PHLX Semiconductor Sector Index
+^RLG - Russell 1000 Growth Index
+^RUT - Russell 2000 Index
+^N225 - Nikkei 225
+^TOPX - TOPIX
+000001.SS - Shanghai Composite
+^HSI - Hang Seng Index
+^AXJO - S&P/ASX 200
+^AORD - All Ordinaries
+^BSESN - SENSEX
+^JKSE - Jakarta Composite
+^KLSE - FTSE Bursa Malaysia KLCI
+^NZ50 - S&P/NZX 50 Index
+^STI - Straits Times Index
+^TWII - Taiwan Weighted
+^KOSPI - KOSPI
+000001.SZ - Shenzhen Component
+^SSEC - Shanghai Composite
+^HSCE - Hang Seng China Enterprises
+^FTSEMIB - FTSE MIB
+^BFX - BEL 20
+^AEX - AEX Index
+^BFX - BEL 20 Index
+^OMX - OMX Stockholm 30
+^OSEAX - Oslo Stock Exchange Benchmark Index (OSEBX)
+^OMXC25 - OMX Copenhagen 25
+^HEX25 - OMX Helsinki 25
+^SSMI - Swiss Market Index
+^ATX - ATX Index
+^BFX - BEL 20
+^BIST100 - BIST 100
+^TA125.TA - TA-125
+^JALSH - FTSE/JSE Top 40
+^EGX30 - EGX 30
+^ISX50 - ISE 100
+^MXX - IPC Mexico
+^BVSP - BOVESPA Index
+^IPSA - S&P/CLX IPSA
+^MERV - MERVAL
+^SMLL - Small Cap Index
+^RTSI - Russia RTS Index
+IMOEX.ME - MOEX Russia Index
+^ISEQ - ISEQ Overall
+^GSPTSE - S&P/TSX Composite
+^XJO - S&P/ASX 200
+^AORD - All Ordinaries Index
+^BSESN - BSE Sensex
+^NSEI - Nifty 50
+^KSE - KSE 100
+^PSI20 - PSI 20
+^XU100 - BIST 100
+^IRIX - ISEQ 20
+^BFX - BEL 20
+^NZY50 - S&P/NZX 50 Gross Index
+^STI - Straits Times Index
+^HSCI - Hang Seng China Enterprises Index
+^TWII - Taiwan Weighted Index
+^KOSPI - KOSPI Index
+^JKSE - Jakarta Composite Index
+^KLSE - FTSE Bursa Malaysia KLCI
+^SSX - SSE 50
+^CSI300 - CSI 300 Index
+^VIX - Volatility S&P 500

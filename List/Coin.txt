@@ -1,0 +1,99 @@
+BTC-USD - Bitcoin
+ETH-USD - Ethereum
+USDT-USD - Tether
+BNB-USD - BNB
+XRP-USD - XRP
+USDC-USD - USD Coin
+SOL-USD - Solana
+ADA-USD - Cardano
+DOGE-USD - Dogecoin
+TRX-USD - TRON
+LINK-USD - Chainlink
+TON-USD - Toncoin
+MATIC-USD - Polygon
+LTC-USD - Litecoin
+BCH-USD - Bitcoin Cash
+SHIB-USD - Shiba Inu
+DOT-USD - Polkadot
+AVAX-USD - Avalanche
+UNI-USD - Uniswap
+NEAR-USD - NEAR Protocol
+KAS-USD - Kaspa
+ICP-USD - Internet Computer
+PEPE-USD - Pepe
+APT-USD - Aptos
+XMR-USD - Monero
+STX-USD - Stacks
+FET-USD - Fetch.ai
+HBAR-USD - Hedera
+RNDR-USD - Render
+VET-USD - VeChain
+ATOM-USD - Cosmos Hub
+FIL-USD - Filecoin
+MKR-USD - Maker
+INJ-USD - Injective
+FDUSD-USD - First Digital USD
+CRO-USD - Cronos
+ARB-USD - Arbitrum
+TAO-USD - Bittensor
+OP-USD - Optimism
+GRT-USD - The Graph
+MNT-USD - Mantle
+FLOKI-USD - FLOKI
+AR-USD - Arweave
+THETA-USD - Theta Network
+RUNE-USD - THORChain
+LDO-USD - Lido DAO
+JUP-USD - Jupiter
+POPCAT-USD - Popcat (SOL)
+ONDO-USD - Ondo
+NOT-USD - Notcoin
+PYTH-USD - Pyth Network
+JASMY-USD - JasmyCoin
+WLD-USD - Worldcoin
+AAVE-USD - Aave
+QNT-USD - Quant
+CORE-USD - Core
+SEI-USD - Sei
+ALGO-USD - Algorand
+XLM-USD - Stellar
+EOS-USD - EOS
+XTZ-USD - Tezos
+BTCB-USD - Bitcoin BEP2
+BSV-USD - Bitcoin SV
+NEO-USD - NEO
+KLAY-USD - Klaytn
+FLOW-USD - Flow
+CHZ-USD - Chiliz
+AXS-USD - Axie Infinity
+SNX-USD - Synthetix
+XAI-USD - Xai
+GALA-USD - GALA
+STORJ-USD - Storj
+BTT-USD - BitTorrent [New]
+GT-USD - GateToken
+WIF-USD - dogwifhat
+ORDI-USD - ORDI
+CFX-USD - Conflux
+ZK-USD - ZKsync
+ENA-USD - Ethena
+BOOK-USD - BOOK OF MEME
+BRETT-USD - Brett (Base)
+FRAX-USD - Frax
+BONK-USD - Bonk
+BEAM-USD - Beam
+MANTRA-USD - MANTRA
+SUPER-USD - SuperVerse
+FLR-USD - Flare
+UMA-USD - UMA
+SUI-USD - Sui
+IO-USD - io.net
+BGB-USD - Bitget Token
+WEMIX-USD - WEMIX
+SC-USD - Siacoin
+XEC-USD - eCash
+ZEC-USD - Zcash
+DASH-USD - Dash
+ZIL-USD - Zilliqa
+WAVES-USD - Waves
+IOTA-USD - IOTA
