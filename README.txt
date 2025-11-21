@@ -16,11 +16,9 @@ HƯỚNG DẪN SỬ DỤNG NHANH
    - Click "Download" để tải dữ liệu
    - Xem progress bar và log
 
-3. EXPORT METASTOCK
+3. SỬ DỤNG DỮ LIỆU
    - Sau khi download xong
-   - Click "Export to MetaStock"
-   - Chọn thư mục đích
-   - Files .DAT và .DOP sẽ được tạo
+   - Import vào các phần mềm phân tích và sử dụng dữ liệu
 
 YÊU CẦU HỆ THỐNG
 -----------------
